@@ -1,0 +1,27 @@
+﻿seed: 42
+dataset:
+  name: thumos14
+  root: data/raw
+  annotations: data/raw/annotations
+  manifest: data/processed/manifest.csv
+  feature_dir: features
+  feature_dim: 2048
+  max_video_len: 750
+  num_classes: 20
+
+model:
+  name: topk_mil
+  hidden_dim: 512
+  dropout: 0.3
+  k_ratio: 0.125
+
+training:
+  batch_size: 16
+  epochs: 50
+  lr: 0.0003
+  weight_decay: 0.0001
+  patience: 8
+  num_workers: 4
+  fp16: true
+  checkpoint_dir: outputs/ckpt
+  log_dir: outputs/logs

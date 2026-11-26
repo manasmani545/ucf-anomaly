@@ -1,0 +1,9 @@
+﻿.venv/
+data/
+checkpoints/
+logs/
+results/
+__pycache__/
+*.pt
+*.npy
+*.zip

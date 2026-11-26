@@ -1,0 +1,34 @@
+﻿
+FullName                                                                                        Length
+--------                                                                                        ------
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\.DS_Store                                        10244
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\dataset.py                                        4963
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\infer.py                                           926
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\layers.py                                         6993
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\main.py                                           2826
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\model.py                                          4811
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\option.py                                         1978
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\README.md                                          804
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\test.py                                           1288
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\train.py                                          1963
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\utils.py                                           741
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\.idea\.gitignore                                    50
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\.idea\GCN.iml                                      438
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\.idea\misc.xml                                     188
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\.idea\modules.xml                                  265
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\.idea\vcs.xml                                      185
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\.idea\inspectionProfiles\profiles_settings.xml     179
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\ckpt\.DS_Store                                    6148
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\ckpt\wsanodet_mix2.pkl                         3382342
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\.DS_Store                                    6148
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\audio.list                                 393665
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\audio_test.list                             79993
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\flow.list                                 1790395
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\flow_test.list                             383965
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\gt.npy                                    9321664
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\make_gt.py                                   1666
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\make_list.py                                  499
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\rgb.list                                  1770625
+C:\Users\CS_19\Desktop\proj 1\external\XDVioDet\list\rgb_test.list                              379965
+
+

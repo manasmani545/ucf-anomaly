@@ -1,0 +1,14 @@
+﻿dataset:
+  root: data/raw
+  manifest: data/processed/manifest.csv
+  feature_dir: features
+
+extraction:
+  backbone: r2plus1d_18
+  clip_length: 16
+  stride: 8
+  image_size: 224
+  batch_size: 16
+  num_workers: 4
+  precision: fp16
+  device: cuda
